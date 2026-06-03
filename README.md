@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎨 ERQUIZIN DZN
+# 🎨 ERQ DZN
 
 ### Designer Gráfico & Criador de Conteúdo Visual
 
