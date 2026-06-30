@@ -6,7 +6,7 @@
 
 <img src="https://i.imgur.com/Pra8ILL.png" width="300"/>
 <img src="https://i.imgur.com/95c9KIc.png" width="415"/>
-<img src="https://i.imgur.com/95c9KIc.png" width="415"/>
+<img src="https://i.imgur.com/zIjhYez.png" width="415"/>
 <img src="https://i.imgur.com/MTT127T.png" width="415"/>
 
 <p>
